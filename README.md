@@ -2,30 +2,21 @@
 
 ## Installations nécessaires au bon fonctionnement du projet
 
-### 
-1 : Télécharger les repository "helloworld-master" et "backend-master" sur votre machine.
+### Télécharger les repository "helloworld-master" et "backend-master" sur votre machine.
 
+Télécharger les repository en format zip, puis extraire le tout dans votre machine à un endroit adéquat.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### npm configuration 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A l'aide de l'invite de commande ("cmd" sur windows), déplacer vous dans les répertoire que vous venez d'extraire (ouvrir 2 terminal).
+C:\Users\bob\helloworld-master
+C:\Users\bob\backend-master
 
-### `npm test`
+Dans chaque répertoire lancer la commande "npm install", des téléchargement s'effectueront.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### npm lancement
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Une fois npm installez dans les répertoires back et front
 
 ### `npm run eject`
 
