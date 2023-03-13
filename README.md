@@ -1,12 +1,10 @@
-# Getting Started with Create React App
+# Projet React Matis AMRI Anice TAJGALT Ines BACCOUCHE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Installations nécessaires au bon fonctionnement du projet
 
-## Available Scripts
+### 
+1 : Télécharger les repository "helloworld-master" et "backend-master" sur votre machine.
 
-In the project directory, you can run:
-
-### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
